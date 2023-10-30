@@ -41,9 +41,3 @@
 <p align="center">
 <a href="https://www.instagram.com/nandu_prakash07/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nandu_prakash07__-blue?style=flat-square&logo=instagram"></a>
 </p>
-.
-[![Noobercodr's GitHub stats](https://github-readme-stats-olcd.vercel.app/api?username=noobercodr&show_icons=true&theme=transparent&card_width=400&hide_title=true&hide_border=true)](https://github.com/noobercodr)  [![Top Langs](https://github-readme-stats-olcd.vercel.app/api/top-langs/?username=noobercodr&layout=compact&exclude_repo=noobercodr.github.io&card_width=350&theme=transparent&hide_border=true)](https://github.com/noobercodr)
-<!---
-noobercodr/noobercodr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
